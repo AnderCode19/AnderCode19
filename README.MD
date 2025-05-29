@@ -43,9 +43,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50"/>
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="50" height="50"/>
   </a>
