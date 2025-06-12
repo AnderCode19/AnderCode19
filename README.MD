@@ -59,4 +59,4 @@
 
 <h2>📫 Contactos</h2>
 <p>📧 Correo: andersonrorivera@gmail.com</p>
-<p>💼 LinkedIn: <a href="https://www.linkedin.com/in/anderson-rodriguez-rivera-268440351/" target="_blank">https://www.linkedin.com/in/anderson-rodriguez-rivera-268440351/</a></p>
+<p>💼 LinkedIn: <a href="https://www.linkedin.com/in/andercode19/" target="_blank">https://www.linkedin.com/in/andercode19/</a></p>
